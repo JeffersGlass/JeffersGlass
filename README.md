@@ -4,7 +4,7 @@ Projects:
 - [My Blog - jeff.glass](https://jeff.glass)
 
 Talks:
-- [Building Serverless Apps with PyScript](https://www.youtube.com/watch?v=RVmltK006CU) (PyConUS 2023 Tutorial, with Others)
+- [Building Serverless Apps with PyScript](https://www.youtube.com/watch?v=RVmltK006CU) - PyConUS 2023 Tutorial, with Others
 - [Making Your Documentation Interactive with PyScript](https://www.youtube.com/watch?v=ysSewLZEqnM) - PyOhio 2023
-- [PyScript: Python in Your HTML](https://jeff.glass/post/pyscript-chipy-feb-2023/) (ChiPy Feb 2023)
+- [PyScript: Python in Your HTML](https://jeff.glass/post/pyscript-chipy-feb-2023/) - ChiPy Feb 2023
 
