@@ -8,6 +8,6 @@ Talks:
 - [PyScript: Python in Your HTML](https://jeff.glass/post/pyscript-chipy-feb-2023/) - ChiPy Feb 2023
 
 Where to Find Me:
-🐦 [@JeffersGlass](https://twitter.com/JeffersGlass)
-🎞️ [YouTube - Codinggglass](https://www.youtube.com/@CodingGlass)
-✍🏻 [Blog - jeff.glass](https://jeff.glass)
+- 🐦 [@JeffersGlass](https://twitter.com/JeffersGlass)
+- 🎞️ [YouTube - Codinggglass](https://www.youtube.com/@CodingGlass)
+- ✍🏻 [Blog - jeff.glass](https://jeff.glass)
