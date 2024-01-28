@@ -9,5 +9,5 @@ Talks:
 
 Where to Find Me:
 - 🐦 [@JeffersGlass](https://twitter.com/JeffersGlass)
-- 🎞️ [YouTube - Codinggglass](https://www.youtube.com/@CodingGlass)
+- 🎞️ [YouTube - Codingglass](https://www.youtube.com/@CodingGlass)
 - ✍🏻 [Blog - jeff.glass](https://jeff.glass)
