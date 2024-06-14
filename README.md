@@ -3,7 +3,7 @@ Projects:
 - [PyScript Recipes](https://pyscript.recipes/) - Creator and Author ([Repo](https://github.com/JeffersGlass/pyscript-recipes))
 
 Talks:
-- **The CPython JIT** - ChiPy June 2024 ([Upcoming](https://www.chipy.org/meetings/250/))
+- **The CPython JIT** - ChiPy [Rescheduled] ([Upcoming](https://www.chipy.org/meetings/250/))
 - **Making Your Documentation Interactive with PyScript** - PyConUS 2024 ([Upcoming](https://us.pycon.org/2024/schedule/presentation/92/))
 - [Building Serverless Apps with PyScript](https://www.youtube.com/watch?v=RVmltK006CU) - PyConUS 2023 Tutorial, with Others
 - [Making Your Documentation Interactive with PyScript](https://www.youtube.com/watch?v=ysSewLZEqnM) - PyOhio 2023
