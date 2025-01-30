@@ -1,6 +1,6 @@
 Projects:
-- [PyScript](https://github.com/pyscript/pyscript) - Maintainer and [release notes author](https://jeff.glass/tags/pyscript/)
 - [PyScript Recipes](https://pyscript.recipes/) - Creator and Author ([Repo](https://github.com/JeffersGlass/pyscript-recipes))
+- [PyScript](https://github.com/pyscript/pyscript) - Maintainer and [release notes author](https://jeff.glass/tags/pyscript/), 2022-2024
 
 Talks:
 - **The CPython JIT** - ChiPy [Rescheduled] ([Upcoming](https://www.chipy.org/meetings/250/))
